@@ -16,6 +16,6 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el año d
 - MySQL Workbench
 - Git y GitHub para control de versiones
   
-![A pretty tiger](https://www.godaddy.com/resources/latam/wp-content/uploads/sites/4/2023/06/portada_base-de-datos.png?size=1250x625)
+![Base de datos](https://www.godaddy.com/resources/latam/wp-content/uploads/sites/4/2023/06/portada_base-de-datos.png?size=1250x625)
 
 
