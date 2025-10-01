@@ -15,12 +15,7 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el año d
 - SQL estándar
 - MySQL Workbench
 - Git y GitHub para control de versiones
-
-## Cómo usar este repositorio
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/AngelPR22/Base-de-datos.git
+  
 ![A pretty tiger](https://www.godaddy.com/resources/latam/wp-content/uploads/sites/4/2023/06/portada_base-de-datos.png?size=1250x625)
 
 
