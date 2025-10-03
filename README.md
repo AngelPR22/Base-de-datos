@@ -15,7 +15,14 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el año d
 - SQL estándar
 - MySQL Workbench
 - Git y GitHub para control de versiones
-  
+
+ ## Ejercicios que voy a dejar subido
+
+- [base de datos_ejemplo.txt](https://github.com/user-attachments/files/22681734/base.de.datos_ejemplo.txt)
+
+> Como no tengo ejercicios hecho por el momento lo dejare en un documento de texto por el momento
+ 
 ![Base de datos](https://www.godaddy.com/resources/latam/wp-content/uploads/sites/4/2023/06/portada_base-de-datos.png?size=1250x625)
+
 
 
