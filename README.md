@@ -22,7 +22,7 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el año d
 
 > Como no tengo ejercicios hecho por el momento lo dejare en un documento de texto hasta que empecemos a hacer las actividades
  
-![Ejercicio00](https://www.godaddy.com/resources/latam/wp-content/uploads/sites/4/2023/06/portada_base-de-datos.png?size=1250x625)
+![Ejercicio00](https://github.com/AngelPR22/Base-de-datos/blob/main/base%20de%20datos_ejemplo.txt)
 
 
 
