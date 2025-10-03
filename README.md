@@ -18,11 +18,11 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el año d
 
  ## 📃 Actividades ejercidas
 
-- [base de datos_ejemplo.txt](https://github.com/user-attachments/files/22681734/base.de.datos_ejemplo.txt)
+- [Ejercicio00_Prueba](https://github.com/user-attachments/files/22681734/base.de.datos_ejemplo.txt)
 
 > Como no tengo ejercicios hecho por el momento lo dejare en un documento de texto hasta que empecemos a hacer las actividades
  
-![Ejercicio00](https://github.com/AngelPR22/Base-de-datos/blob/main/base%20de%20datos_ejemplo.txt)
+![Base_Date](https://www.impress-group.com/wp-content/uploads/2020/05/bases-de-datos-scaled.jpg)
 
 
 
