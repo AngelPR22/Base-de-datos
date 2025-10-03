@@ -18,7 +18,7 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el año d
 
  ## 📃 Actividades ejercidas
 
-- [Ejercicio00_Prueba](https://github.com/user-attachments/files/22681734/base.de.datos_ejemplo.txt)
+- [Ejercicio00_Prueba](https://github.com/AngelPR22/Base-de-datos/blob/main/base%20de%20datos_ejemplo.txt)
 
 > Como no tengo ejercicios hecho por el momento lo dejare en un documento de texto hasta que empecemos a hacer las actividades
  
