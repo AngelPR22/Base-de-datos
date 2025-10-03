@@ -18,9 +18,9 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el año d
 
  ## 📃 Actividades ejercidas
 
-- [Ejercicio00_Prueba](https://github.com/AngelPR22/Base-de-datos/blob/main/base%20de%20datos_ejemplo.txt)
+[Actividades del Tema 1 - Almacenamiento de la información.pdf](https://github.com/user-attachments/files/22683732/Actividades.del.Tema.1.-.Almacenamiento.de.la.informacion.pdf)
 
-> Como no tengo ejercicios hecho por el momento lo dejare en un documento de texto hasta que empecemos a hacer las actividades
+> Como no tengo mas ejercicios hechos por el momento lo dejare en un dejare como un solo archivo pdf hasta que empecemos a hacer las actividades
  
 ![Base_Date](https://www.impress-group.com/wp-content/uploads/2020/05/bases-de-datos-scaled.jpg)
 
