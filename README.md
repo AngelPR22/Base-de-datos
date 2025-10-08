@@ -4,7 +4,7 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el año d
 
 ## 📙 Contenido
 
-- **Modelado de datos**: Diagramas entidad-relación (ER) realizados con [herramienta usada].
+- **Modelado de datos**: Diagramas entidad-relación (ER) realizados con MySQL Wokbench.
 - **Consultas SQL**: Scripts con consultas básicas y avanzadas para manipular bases de datos relacionales.
 - **Diseño y creación de bases de datos**: Scripts para creación de tablas, relaciones, índices y restricciones.
 - **Ejercicios prácticos**: Proyectos con bases de datos reales o simuladas para practicar.
